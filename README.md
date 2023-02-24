@@ -29,7 +29,7 @@ Options:
   -a  Ascending sort mode (default)
   -d  Descending sort mode
   -s  String data type
-  -i  Interger data type
+  -i  Integer data type
 
 Arguments:
   <output-file>    Output file name
